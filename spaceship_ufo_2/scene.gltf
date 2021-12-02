@@ -1,0 +1,393 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.8941582441329956,
+        1.6352910995483398,
+        1.8517894744873047
+      ],
+      "min": [
+        -0.8941581845283508,
+        6.973743438720703e-05,
+        -2.6649580001831055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 313680,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.9999964833259583,
+        0.9999850392341614,
+        0.9998444318771362
+      ],
+      "min": [
+        -0.9999964833259583,
+        -0.9999586939811707,
+        -0.9999963045120239
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.9999517202377319,
+        0.9989332556724548,
+        0.9999279975891113,
+        -1.0
+      ],
+      "min": [
+        -0.9998937249183655,
+        -0.9997429847717285,
+        -0.9998114705085754,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.9999157786369324,
+        0.9999997615814209
+      ],
+      "min": [
+        2.384185791015625e-07,
+        1.3113021850585938e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 209120,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.9999157786369324,
+        0.9999997615814209
+      ],
+      "min": [
+        2.384185791015625e-07,
+        1.3113021850585938e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 418240,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.9999157786369324,
+        0.9999997615814209
+      ],
+      "min": [
+        2.384185791015625e-07,
+        1.3113021850585938e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 627360,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.9999157786369324,
+        0.9999997615814209
+      ],
+      "min": [
+        2.384185791015625e-07,
+        1.3113021850585938e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 836480,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.9999157786369324,
+        0.9999997615814209
+      ],
+      "min": [
+        2.384185791015625e-07,
+        1.3113021850585938e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1045600,
+      "componentType": 5126,
+      "count": 26140,
+      "max": [
+        0.9999157786369324,
+        0.9999997615814209
+      ],
+      "min": [
+        2.384185791015625e-07,
+        1.3113021850585938e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 149424,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "hugsman (https://sketchfab.com/hugsman)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/spaceship-ufo-2-e9d239575e1049ab91f6daba4779691d",
+      "title": "SPACESHIP UFO 2"
+    },
+    "generator": "Sketchfab-10.55.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 597696,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1254720,
+      "byteOffset": 597696,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 627360,
+      "byteOffset": 1852416,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 418240,
+      "byteOffset": 2479776,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2898016,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_baseColor.png"
+    },
+    {
+      "uri": "textures/material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/material_emissive.png"
+    },
+    {
+      "uri": "textures/material_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "material",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7,
+            "TEXCOORD_5": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.711462140083313,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        6.552450333193104e-16,
+        -1.711462140083313,
+        0.0,
+        0.0,
+        1.711462140083313,
+        6.552450333193104e-16,
+        0.0,
+        0.0,
+        -1.1102230246251563e-16,
+        -1.1102230246251568e-16,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.2246468525851679e-16,
+        0.0,
+        0.0,
+        -1.2246468525851679e-16,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "UFO_1"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "UFO_2"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_6"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
